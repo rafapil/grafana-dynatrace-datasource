@@ -22,6 +22,14 @@ Checkout in `grafana/data/plugins`, run the commands listed in "Dev setup" and r
 ### Dev setup
 
 ```
+Necessario instalar o node:
+npm install nodejs
+npm install yarn -g
+npm install build
+
+grunt:
+https://tableless.com.br/grunt-voce-deveria-estar-usando/
+
 npm install yarn
 ./node_modules/yarn/bin/yarn install
 npm run build
